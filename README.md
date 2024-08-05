@@ -16,6 +16,13 @@ The **Online Tourism Website** is a dynamic and interactive platform designed to
 - **CSS3:** For styling the website with advanced layouts, animations, and responsiveness.
 - **JavaScript:** For adding interactivity and enhancing user experience.
 
+## Usage
+- **Homepage:** Browse through featured destinations and latest travel tips.
+- **Search:** Use the search bar to find specific destinations.
+- **Destination Pages:** Detailed pages for each destination with reviews, photos, and booking options.
+- **User Reviews:** Read and leave reviews for destinations you have visited.
+- **Booking:** Book tours, hotels, and flights directly from the website.
+
 ## Installation
 To run this project locally, follow these steps:
 
@@ -31,9 +38,3 @@ To run this project locally, follow these steps:
     ```sh
     open index.html
     ```
-## Usage
-- **Homepage:** Browse through featured destinations and latest travel tips.
-- **Search:** Use the search bar to find specific destinations.
-- **Destination Pages:** Detailed pages for each destination with reviews, photos, and booking options.
-- **User Reviews:** Read and leave reviews for destinations you have visited.
-- **Booking:** Book tours, hotels, and flights directly from the website.
